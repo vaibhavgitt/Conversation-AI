@@ -1,5 +1,5 @@
 
-# Chat with your PDFs
+# Chat with your PDFs.
 
 A brief description of what this project does and who it's for
 Chat with your PDFs.
